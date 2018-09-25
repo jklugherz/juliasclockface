@@ -1,0 +1,20 @@
+<svg class="background">
+  <text id="time" />
+  <text id="month" />
+  <text id="day" />
+  <text id="date" />
+  <image href="icons/steps.png" id="steps-icon" />
+  <image href="icons/distance.png" id="distance-icon" />
+  <image href="icons/heartrate.png" id="hr-icon" />
+  <image href="icons/floors.png" id="floors-icon" />
+  <image href="icons/activemins.png" id="activemins-icon" />
+  <image href="icons/swimbattery.png" id="battery-icon" />
+  <text id="heartrate" />
+  <text id="steps" />
+  <text id="distance" />
+  <text id="floors" />
+  <text id="activeMins" />
+  <text id="battery" />
+</svg>
+
+

@@ -1,0 +1,142 @@
+.background {
+  viewport-fill: black;
+}
+
+#time {
+  font-size: 64;
+  font-family: Seville-Book;
+  text-length: 32;
+  text-anchor: end;
+  x: 95%;
+  y: 25%;
+  fill: white;
+}
+
+#day {
+  font-family: Seville-Regular;
+  fill: #7898f8;
+  x: 5%;
+  y: 15%;
+  font-size: 24;
+}
+
+#month {
+  font-family: Seville-Regular;
+  fill: #7898f8;
+  x: 5%;
+  y: 25%;
+  font-size: 24;
+}
+
+#date {
+  font-family: Seville-Book;
+  x: 71;
+  y: 70;
+  font-size: 48;
+  fill: white;
+}
+
+#steps-icon {
+  fill: #2490DD;
+  x: 45;
+  y: 120;
+  width: 32;
+  height: 32;
+}
+
+#distance-icon {
+  fill: #F83C40;
+  x: 45;
+  y: 176;
+  width: 32;
+  height: 32;
+}
+
+#hr-icon {
+  fill: #F83478;
+  x: 45;
+  y: 232;
+  width: 32;
+  height: 32;
+}
+
+#floors-icon {
+  fill: #00A629;
+  x: 181;
+  y: 120;
+  width: 32;
+  height: 32;
+}
+
+#activemins-icon {
+  fill: #FFD733;
+  x: 181;
+  y: 176;
+  width: 32;
+  height: 32;
+}
+
+#battery-icon {
+  fill: #BCD8F8;
+  x: 181;
+  y: 232;
+  width: 32;
+  height: 32;
+}
+
+
+
+#steps {
+  fill: white;
+  font-family: Seville-Regular;
+  x: 85;
+  y: 143;
+  font-size: 24;
+  text-length: 32;
+}
+
+#distance {
+  fill: white;
+  font-family: Seville-Regular;
+  x: 85;
+  y: 200;
+  font-size: 24;
+  text-length: 32;
+}
+
+#heartrate {
+  fill: white;
+  font-family: Seville-Regular;
+  x: 85;
+  y: 257;
+  font-size: 24;
+}
+
+
+#floors {
+  fill: white;
+  font-family: Seville-Regular;
+  x: 221;
+  y: 143;
+  font-size: 24;
+  text-length: 32;
+}
+
+#activeMins {
+  fill: white;
+  font-family: Seville-Regular;
+  x: 221;
+  y: 200;
+  font-size: 24;
+  text-length: 32;
+}
+
+#battery {
+  fill: white;
+  font-family: Seville-Regular;
+  x: 221;
+  y: 257;
+  font-size: 24;
+}
+
+

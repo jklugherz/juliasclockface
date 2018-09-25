@@ -1,0 +1,21 @@
+{
+  "fitbit": {
+    "appUUID": "bc295e87-8541-4cb8-80eb-f087c959f3c0",
+    "appType": "clockface",
+    "appDisplayName": "juliasclockface",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_activity",
+      "access_heart_rate"
+    ],
+    "buildTargets": [
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "juliasclockface"
+      }
+    }
+  }
+}
